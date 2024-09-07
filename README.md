@@ -33,7 +33,7 @@ What counts? It has to be pitched as its own database, featuring some modificati
 ## General Extensions
 
 | Name | Extension Available | Fully OSS | Notes |
-|------|---------------------| --------- |
+|------|---------------------| --------- | ----- |
 | [Tembo](https://tembo.io/) | ❌ | ✅ | Just a GUI? |
 | [Supabase](https://supabase.io/) | ✅ | ✅ | Basically just postgres but they develop their own extensions |
 | [EdgeDB](https://edgedb.com/) | ❌ | ✅ | New query language |
